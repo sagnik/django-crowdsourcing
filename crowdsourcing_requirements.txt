@@ -4,7 +4,7 @@
 # $ pip install -r crowdsourcing_requirements.txt
 
 # Python Image Library for processing image answers.
-PIL>=1.1.6
+#PIL>=1.1.6
 
 # for image thumbnailing
 sorl-thumbnail==3.2.5
